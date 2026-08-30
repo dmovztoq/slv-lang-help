@@ -1,16 +1,20 @@
-# Western South Slavic (North Balkan) Pronounciation Cheat Sheet for English Speakers - Version 2026-08-26
-
+# Western South Slavic Pronounciation Cheat Sheet for English Speakers - Version 2026-08-26
+TODO DUALITY, PLURAL 4-5, SUPER PLURALITY
 ## Background:
-### The larger South Slavic Group also includes Macedonian and Bulgarian, which is considerably different. Those two are part of the Eastern South Slavic (South Balkan) group.
-### This Group contains: Slovenian, Serbo-Croatian; Bosnian, Montenegrin (Cyrillic script in Serbian is just a difference in symbols, the underlying language is exactly the same, very different from eg. Russian)
-### If you see Serbian cyrillic text, you can simply use a transliterator to get out Serbo-Croatian in latin. A person from Croatia, Serbia, Bosnia and Montenegro would all sound almost the same if they spoke in a room, it would be nearly indistinguishable to an outside foreigner. An english person wouldn't normally be able to figure out who's from where. There's relatively small* differences and accents, etc.
-### On average, Serbo-Croatian group has a harder time understanding Slovenian (Slovene)
-### However, due to the fact that Slovenia never ethnically cleansed Serbs or anyone else from ex-YU out of the country after it's independence in 1991 (Ten Day War) and the fact that more immigrants from ex-YU kept arriving to Slovenia, and the fact that Slovenians are huge visitors to Croatian and Balkan summer vacation on the seaside, and the fact that Balkan (namely Croatian, Serbian, but not Bosnian-Muslim) music plays on a lot of radios and night clubs almost as per default, therefore, many Slovenians understand Serbo-Croatian pretty good for basic communication, and it's been said it's quite easy to learn, than vice-versa.
+
+### Two major languages: Slovene and Serbo-Croatian. The latter further splits into Croatian, Serbian, Bosnian and Montenegrin where differences between them are much smaller versus Slovene. In Serbia, Montenegro and parts of Bosnia, Cyrllic script is also used, but it is just a difference in symbols, the underlying language is exactly* the same. Serbo-Croatian also further splits into two larger dialects, but that's beyond the scope of this document.
+
+### The parent South Slavic group also includes Macedonian and Bulgarian, but those have considerabe differences and better fit into Eastern South Slavic group.
+
+### A person speaking person from either Croatia, Serbia, Bosnia or Montenegro would sound very similar if not the same. A foreigner or even a person from a neighbouring country wouldn't easily be able to figure out which exact Balkan Slavic country the speaker is from. There's relatively small* differences and accents, etc.
+
+### A majority of Serbo-Croatian speakers have a harder time understanding and speaking Slovene versus vice versa. This is due to several geopolicital and geographic reasons. First is the fact that Slovenia never ethnically cleansed Serbs or any other nationals of ex-Yugoslavia out of the country, after it's independence in 1991 (Ten Day War). Second the fact that more immigrants from ex-Yugoslavia kept arriving to Slovenia because it was economically and technologically (partially) the most advanced state in Yugoslavia (hosting a lot of very important factories). Third, the fact that Slovenians are huge visitors to Croatian and Balkan summer vacation sites on the seaside. Fourth, the fact that Balkan (namely Croatian, Serbian, but not so much Bosnian-Muslim) music is very enjoyable to a lot of Slovenians and it's plays on a lot of radios and night clubs almost as per default (mixed with local and international music), therefore, many Slovenians understand Serbo-Croatian a lot more than one would guess.
+
 ### The Slovenians of Serbian or ex-YU origin have been in Slovenia for quite a long time so they usually understand and speak Slovenian good if not perfect, their offspring may be fully bi-lingual.
 ### There is also a phenomenon in ex-YU Slovenian circles of switching back and forth and using Serbo-Croatian in slang or when upset, usually to make it sound more cooler or meaner/heavier. So when someone's upset and they blast a few bad Slovenian words, they would throw a few Serbo-Croatian bad words at the end for good measure. Native Slovenians probably don't do that. 
 
 ## Language functionality versus English:
-### These languages are phonetically almost perfect, each letter usually maps to only one sound, and most letters are pronounced exactly as written.
+### These languages are phonetically almost perfect, so each letter usually maps to only one sound, and most letters are pronounced exactly as written, very rarely silent, unlike English.
 ### There are only 3 tenses: past, present, future. English "I saw" and "I have seen" is indistinguishable, it all just defaults to "past".
 ### There is a system of grammatical cases of nouns, pronouns and adjectives, called Declension, which means that a given root of the word can have many versions thorugh different suffixes, many more than english. 
 ### There is grammatical gender of nouns, feminine, masculine or neuter ("middle"), but on top of that, all verbs, pronouns and adjectives need to correspond to the gender of the noun in the sentence. 
