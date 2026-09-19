@@ -1,5 +1,5 @@
 # Western South Slavic Pronounciation Cheat Sheet for English Speakers - Version 2026-08-26
-TODO SLO DUALITY, SMALL PLURAL 4-5, SUPER PLURALITY, DOUBLE NEGATIVE, ARCHAIC PREPAST
+TODO SLO DUALITY, SMALL PLURAL 4-5, SUPER PLURALITY, DOUBLE NEGATIVE, ARCHAIC PREPAST, NONCE (PRILOZNOSTNICE, -ariti, -jenje - dynamic suffix, intra-language mix for extra effect)
 ## Background:
 
 ### Two major languages: Slovene and Serbo-Croatian. The latter further splits into Croatian, Serbian, Bosnian and Montenegrin where differences between them are much smaller versus Slovene. In Serbia, Montenegro and parts of Bosnia, Cyrllic script is also used, but it is just a difference in symbols, the underlying language is exactly* the same. Serbo-Croatian also further splits into two larger dialects, but that's beyond the scope of this document.
